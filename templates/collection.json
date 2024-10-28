@@ -146,27 +146,17 @@
             "button_link": "",
             "text_position": "left"
           }
-        },
-        "column_qzygaW": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/273221133_122779546972959_989069499506520398_n_jpg.jpg",
-            "heading": "Intensive Glow C+ Serum",
-            "button_label": "Explore More",
-            "button_link": "",
-            "text_position": "left"
-          }
         }
       },
       "block_order": [
         "column_UT9JYK",
-        "column_VKCxxT",
-        "column_qzygaW"
+        "column_VKCxxT"
       ],
       "settings": {
         "color_scheme": "",
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 0,
+        "column": "two"
       }
     },
     "collection_2_column_rdW8Md": {
@@ -191,16 +181,28 @@
             "button_link": "shopify://collections/face-pack",
             "text_position": "left"
           }
+        },
+        "column_rxfxXW": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Nagano-Pink-Nipple-Jelly-Cloud-Shop-BD2.jpg",
+            "heading": "Intensive Glow C+ Serum",
+            "button_label": "Explore More",
+            "button_link": "",
+            "text_position": "left"
+          }
         }
       },
       "block_order": [
         "column_T7kk9q",
-        "column_6c4UmB"
+        "column_6c4UmB",
+        "column_rxfxXW"
       ],
       "settings": {
         "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 52
+        "padding_top": 16,
+        "padding_bottom": 52,
+        "column": "three"
       }
     }
   },
