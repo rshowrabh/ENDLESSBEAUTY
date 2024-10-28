@@ -9,45 +9,6 @@
  */
 {
   "sections": {
-    "image_banner": {
-      "type": "image-banner",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Browse our latest products",
-            "heading_size": "h0"
-          }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify://collections/all",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "button"
-      ],
-      "settings": {
-        "image_overlay_opacity": 40,
-        "image_height": "large",
-        "desktop_content_position": "bottom-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-3",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -76,44 +37,58 @@
         "padding_bottom": 36
       }
     },
-    "new_slider_T68TFp": {
-      "type": "new-slider",
+    "image_banner_slider_79xpDx": {
+      "type": "image-banner-slider",
       "blocks": {
-        "slide_ECdxkN": {
-          "type": "slide",
+        "slides_D3zzzh": {
+          "type": "slides",
           "settings": {
-            "image": "shopify://shop_images/463182683_533172139359842_5986918029939203457_n.jpg",
-            "collection_name": "Starting at $31.2",
-            "heading": "Summer Collection",
-            "button_label": "Explore More",
-            "button_link": ""
+            "bg_image": "shopify://shop_images/463182683_533172139359842_5986918029939203457_n.jpg",
+            "content_position": "center-center",
+            "content_alignment": "left",
+            "opacity": 10,
+            "heading": "Dream Spaces: Your Imagination, Our Blueprint",
+            "sub_heading": "Discover our vast collection of curated designs and embark on a journey to redefine your living space.",
+            "text": "",
+            "btn_label": "Shop now",
+            "url": "",
+            "second_label": "",
+            "second_url": "",
+            "enable_link": false,
+            "color_scheme": "accent-1"
           }
         },
-        "slide_kpx7TB": {
-          "type": "slide",
+        "slides_FA3CTm": {
+          "type": "slides",
           "settings": {
-            "image": "shopify://shop_images/Thanaka.png",
-            "collection_name": "Starting at $31.2",
-            "heading": "Summer Collection",
-            "button_label": "Explore More",
-            "button_link": ""
+            "bg_image": "shopify://shop_images/Applying_French_Green_Clay_as_a_Face_Mask-removebg-preview.png",
+            "content_position": "center-center",
+            "content_alignment": "left",
+            "opacity": 10,
+            "heading": "Dream Spaces: Your Imagination, Our Blueprint",
+            "sub_heading": "Discover our vast collection of curated designs and embark on a journey to redefine your living space.",
+            "text": "",
+            "btn_label": "Shop now",
+            "url": "",
+            "second_label": "",
+            "second_url": "",
+            "enable_link": false,
+            "color_scheme": "accent-1"
           }
         }
       },
       "block_order": [
-        "slide_ECdxkN",
-        "slide_kpx7TB"
+        "slides_D3zzzh",
+        "slides_FA3CTm"
       ],
       "settings": {
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "slider_height": "default",
+        "center_width": false
       }
     }
   },
   "order": [
-    "image_banner",
     "featured_collection",
-    "new_slider_T68TFp"
+    "image_banner_slider_79xpDx"
   ]
 }
