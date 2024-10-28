@@ -130,8 +130,7 @@
         "column_UT9JYK": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/463182683_533172139359842_5986918029939203457_n.jpg",
-            "collection_name": "New Collection",
+            "image": "shopify://shop_images/banner19.webp",
             "heading": "Intensive Glow C+ Serum",
             "button_label": "Explore More",
             "button_link": ""
@@ -141,7 +140,6 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/296171988_109612381838687_6318865796322393317_n_jpg.jpg",
-            "collection_name": "New Collection",
             "heading": "Intensive Glow C+ Serum",
             "button_label": "Explore More",
             "button_link": ""
@@ -151,7 +149,6 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/273221133_122779546972959_989069499506520398_n_jpg.jpg",
-            "collection_name": "New Collection",
             "heading": "Intensive Glow C+ Serum",
             "button_label": "Explore More",
             "button_link": ""
