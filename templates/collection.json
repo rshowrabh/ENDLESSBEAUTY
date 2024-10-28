@@ -69,6 +69,7 @@
         "featured_collection_gpJe7y",
         "featured_collection_7d37X8"
       ],
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_size": "h1",
@@ -109,6 +110,7 @@
         "featured_collection_EdAMMR",
         "featured_collection_wFqeXw"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h2",
@@ -121,6 +123,51 @@
         "padding_top": 0,
         "padding_bottom": 36
       }
+    },
+    "collection_2_column_mPcAGJ": {
+      "type": "collection-2-column",
+      "blocks": {
+        "column_UT9JYK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/463182683_533172139359842_5986918029939203457_n.jpg",
+            "collection_name": "New Collection",
+            "heading": "Intensive Glow C+ Serum",
+            "button_label": "Explore More",
+            "button_link": ""
+          }
+        },
+        "column_VKCxxT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/296171988_109612381838687_6318865796322393317_n_jpg.jpg",
+            "collection_name": "New Collection",
+            "heading": "Intensive Glow C+ Serum",
+            "button_label": "Explore More",
+            "button_link": ""
+          }
+        },
+        "column_qzygaW": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/273221133_122779546972959_989069499506520398_n_jpg.jpg",
+            "collection_name": "New Collection",
+            "heading": "Intensive Glow C+ Serum",
+            "button_label": "Explore More",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_UT9JYK",
+        "column_VKCxxT",
+        "column_qzygaW"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -128,6 +175,7 @@
     "banner",
     "product-grid",
     "new_collection_list_DcDEgw",
-    "new_collection_list_JwgBDM"
+    "new_collection_list_JwgBDM",
+    "collection_2_column_mPcAGJ"
   ]
 }
