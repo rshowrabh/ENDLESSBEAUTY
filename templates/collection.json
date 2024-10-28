@@ -168,6 +168,40 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "collection_2_column_rdW8Md": {
+      "type": "collection-2-column",
+      "blocks": {
+        "column_T7kk9q": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/banner19.webp",
+            "heading": "Intensive Glow C+ Serum",
+            "button_label": "Explore More",
+            "button_link": "",
+            "text_position": "left"
+          }
+        },
+        "column_6c4UmB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/463182683_533172139359842_5986918029939203457_n.jpg",
+            "heading": "Intensive Glow C+ Serum",
+            "button_label": "Explore More",
+            "button_link": "shopify://collections/face-pack",
+            "text_position": "left"
+          }
+        }
+      },
+      "block_order": [
+        "column_T7kk9q",
+        "column_6c4UmB"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -176,6 +210,7 @@
     "product-grid",
     "new_collection_list_DcDEgw",
     "new_collection_list_JwgBDM",
-    "collection_2_column_mPcAGJ"
+    "collection_2_column_mPcAGJ",
+    "collection_2_column_rdW8Md"
   ]
 }
