@@ -86,11 +86,17 @@
 }
 
 
-#two-column-gallary .text{
+#two-column-gallary .text.left{
     position: absolute;
-    transform: translate(-50%,-50%);
-    bottom: 0px;
-    left: 0px;
+    transform: translateX(-10%);
+    bottom: 10px;
+    left: -10%;
+}
+#two-column-gallary .text.center{
+    position: absolute;
+    transform: translateX(-50%);
+    bottom: 10px;
+    left: -50%;
 }
 #two-column-gallary .text > *{
     font-weight: 600;
@@ -137,7 +143,7 @@
     <div class="box">
       {% for block in section.blocks %}
         <div class="item item1">
-          <div class="text">
+          <div class="text {{block.settings.text_position}}">
             <h2>{{ block.settings.heading }}</h2>
             <a class="underline" href="{{block.settings.button_link}}">{{ block.settings.button_label }}</a>
           </div>
@@ -215,6 +221,22 @@
           "type": "url",
           "id": "button_link",
           "label": "Button Link"
+          },
+          {
+            "type": "select",
+            "id": "text_position",
+            "label": "Text Position",
+            "default": "left",
+            "options": [
+              {
+                "label": "Left",
+                "value": "left"
+              },
+              {
+                "value": "Center",
+                "label": "center"
+              }
+            ]
           }
   ]
  }
