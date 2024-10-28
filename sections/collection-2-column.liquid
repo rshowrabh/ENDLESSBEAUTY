@@ -20,7 +20,7 @@
     flex-wrap: wrap;
     justify-content:space-between;
     align-items:center;
-    gap: 40px;
+    gap: 10px;
 }
 
 .image{
@@ -87,7 +87,8 @@
 
 
 #two-column-gallary .text{
-    padding: 10px 30px 100px;
+    align-items: baseline;
+    justify-content: baseline;
 }
 #two-column-gallary .text > *{
     font-weight: 600;
@@ -98,7 +99,7 @@
 }
 
 #two-column-gallary .item{
-    width: calc(50% - 20px);
+    flex: 1 1 32%;
     position: relative;
     overflow: hidden;
     transition: 0.5s all ease-in-out; 
@@ -131,13 +132,16 @@
     background-color: rgb(var(--color-button-text));
 
 }
+.underline{
+    text-decoration: underline;
+}
 
 
 /* Responsive Mobile */
 
 @media only screen and (max-width: 767px) {
     #two-column-gallary .item{
-        width: 100%;
+        flex: 1 1 100%;
         height: 330px;
     }
   }
@@ -149,9 +153,8 @@
       {% for block in section.blocks %}
         <div class="item item1">
           <div class="text">
-            <p>{{ block.settings.collection_name }}</p>
             <h2>{{ block.settings.heading }}</h2>
-            <a class="btn btn-primary" href="{{block.settings.button_link}}">{{ block.settings.button_label }}</a>
+            <a class="btn underline" href="{{block.settings.button_link}}">{{ block.settings.button_label }}</a>
           </div>
           <div class="image overlay-hover">
             {% if block.settings.image != blank %}
@@ -210,12 +213,6 @@
           "type": "image_picker",
           "id": "image",
           "label": "t:sections.multicolumn.blocks.column.settings.image.label"
-          },
-          {
-          "type": "text",
-          "id": "collection_name",
-          "label": "Collection Name",
-          "default" : "New Collection"
           },
           {
           "type": "text",
