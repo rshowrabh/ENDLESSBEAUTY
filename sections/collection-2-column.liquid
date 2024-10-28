@@ -110,7 +110,7 @@
     font-size: 30px;
 }
 #two-column-gallary .box.two .item .text h2{
-    /* word-spacing: 100vW; */
+    word-spacing: 100vW;
     font-size: 45px;
 }
 .underline{
@@ -142,7 +142,7 @@
       {% for block in section.blocks %}
         <div class="item item1">
           <div class="text" style="left:{{block.settings.text_position_left}}%;bottom:{{block.settings.text_position_bottom}}%">
-            <h2 style="word-break: ;">{{ block.settings.heading }}</h2>
+            <h2 style="word-spacing:{{block.settings.word_break}};">{{ block.settings.heading }}</h2>
             <a class="underline" href="{{block.settings.button_link}}">{{ block.settings.button_label }}</a>
           </div>
           <div class="image overlay-hover">
@@ -208,7 +208,7 @@
             
             }
         ]
-        }
+    }
   ],
 "blocks": [
     {
@@ -254,7 +254,24 @@
             "max" : 100,
             "step": 1,
             "default": 0
-          }
+          },
+          {
+        "type": "select",
+        "id": "word_break",
+        "label": "Word Break",
+        "default": "no",
+        "options": [
+            {
+            "label": "no",
+            "value": "initial"
+            },
+            {
+            "label": "yes",
+            "value": "100vW"
+            
+            }
+        ]
+    }
   ]
  }
 ],
