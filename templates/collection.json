@@ -133,7 +133,8 @@
             "image": "shopify://shop_images/banner19.webp",
             "heading": "New Arrivals",
             "button_label": "Explore More",
-            "button_link": ""
+            "button_link": "",
+            "text_position": "Center"
           }
         },
         "column_VKCxxT": {
@@ -142,7 +143,8 @@
             "image": "shopify://shop_images/296171988_109612381838687_6318865796322393317_n_jpg.jpg",
             "heading": "Intensive Glow C+ Serum",
             "button_label": "Explore More",
-            "button_link": ""
+            "button_link": "",
+            "text_position": "left"
           }
         },
         "column_qzygaW": {
@@ -151,7 +153,8 @@
             "image": "shopify://shop_images/273221133_122779546972959_989069499506520398_n_jpg.jpg",
             "heading": "Intensive Glow C+ Serum",
             "button_label": "Explore More",
-            "button_link": ""
+            "button_link": "",
+            "text_position": "left"
           }
         }
       },
