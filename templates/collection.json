@@ -55,13 +55,13 @@
         "featured_collection_gpJe7y": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "cleansing"
           }
         },
         "featured_collection_7d37X8": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "face-care"
           }
         }
       },
@@ -88,19 +88,19 @@
         "featured_collection_kYbYxq": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "face-cream"
           }
         },
         "featured_collection_EdAMMR": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "face-pack"
           }
         },
         "featured_collection_wFqeXw": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "face-soap"
           }
         }
       },
