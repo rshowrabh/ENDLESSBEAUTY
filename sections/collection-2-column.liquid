@@ -107,11 +107,16 @@
 }
 
 #two-column-gallary .item{
-    flex: 1 1 32%;
     position: relative;
     overflow: hidden;
     transition: 0.5s all ease-in-out; 
     height: 400px; 
+}
+#two-column-gallary .item.two{
+    flex: 1 1 48%;
+}
+#two-column-gallary .item.three{
+    flex: 1 1 32%;
 }
 #two-column-gallary .item:hover .image{
     transform: scale(1.3);
@@ -193,7 +198,24 @@
     "unit": "px",
     "label": "t:sections.all.padding.padding_bottom",
     "default": 52
-    }
+    },
+    {
+        "type": "select",
+        "id": "column",
+        "label": "Desktop Column",
+        "default": "left",
+        "options": [
+            {
+            "label": "Two",
+            "value": "two"
+            },
+            {
+            "label": "Three",
+            "value": "three"
+            
+            }
+        ]
+        }
   ],
 "blocks": [
     {
