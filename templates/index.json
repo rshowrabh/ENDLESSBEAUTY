@@ -62,8 +62,8 @@
         "slides_D3zzzh": {
           "type": "slides",
           "settings": {
-            "bg_image": "shopify://shop_images/slideshow-3_2048x_c30033be-9b25-4104-83e0-9c9e08ac5975.jpg",
-            "content_position": "center-center",
+            "bg_image": "shopify://shop_images/c-bn-3.jpg",
+            "content_position": "left-center",
             "content_alignment": "left",
             "opacity": 10,
             "heading": "Dream Spaces: Your Imagination, Our Blueprint",
@@ -74,7 +74,7 @@
             "second_label": "",
             "second_url": "",
             "enable_link": false,
-            "color_scheme": "accent-1"
+            "color_scheme": "scheme-1"
           }
         },
         "slides_FA3CTm": {
