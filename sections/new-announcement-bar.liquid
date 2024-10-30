@@ -19,43 +19,22 @@
     <div class="social-info-bar">
       <div class="social-media">
         <div class="social-media-item">
-          <a target="_blank" href="{{section.settings.fb_url}}">
-             <!-- facebook svg -->
-          {% render 'facebook.svg' %}
-            {{ section.settings.fb_text -}}
-          </a>
+            {{ section.settings.phone -}}
         </div>
         <div class="social-media-item">
-          <a target="_blank" href="{{section.settings.insta_url}}">
-              <!-- instagram svg -->
-          {% render 'insta.svg' %}
-            {{ section.settings.insta_text -}}
-          </a>
+            {{ section.settings.email -}}
         </div>
       </div>
       <div class="heading">
         <span>{{ section.settings.heading }}</span>
       </div>
       <div class="info">
-        <a target="_blank" href="{{section.settings.store_link}}">
-          <!-- maps svg -->
-          {% render 'maps.svg' %}
-          Find a Store</a
-        >
-        {% if section.settings.language %}
-          <div class="header__icons header__icons--localization header-localization d-inline-block">
-          <div class="desktop-localization-wrapper"> 
-              <localization-form class="small-hide medium-hide" data-prevent-hide>
-                {%- form 'localization', id: 'HeaderLanguageForm', class: 'localization-form' -%}
-                  <div>
-                    <h2 class="visually-hidden" id="HeaderLanguageLabel">{{ 'localization.language_label' | t }}</h2>
-                    {%- render 'language-localization', localPosition: 'HeaderLanguage' -%}
-                  </div>
-                {%- endform -%}
-              </localization-form>
-          </div>
-        </div>
-        {% endif %}
+        <a target="_blank" href="{{section.settings.about_link}}">
+          {{section.settings.about_label}}
+        </a>
+        <a target="_blank" href="{{section.settings.contact_link}}">
+          {{section.settings.contact_label}}
+        </a>
         
         <!--
           <span>USD <svg aria-hidden="true" focusable="false" class="icon icon-facebook" viewBox="0 0 20 20">
@@ -81,35 +60,35 @@
 },
 {
 "type": "text",
-"id": "fb_text",
-"label": "Facebook Text",
-"default": "100K Followers"
-},
-{
-"type": "url",
-"id": "fb_url",
-"label": "Facebook Url"
+"id": "phone",
+"label": "Phone Number",
+"default": "+88234120412"
 },
 {
 "type": "text",
-"id": "insta_text",
-"label": "Instagram Text",
-"default": "100K Followers"
+"id": "email",
+"label": "Email",
+"default": "a@a.cd"
 },
 {
 "type": "url",
-"id": "insta_url",
-"label": "Instagram Url"
+"id": "about_url",
+"label": "About"
+},
+{
+"type": "text",
+"id": "about_text",
+"label": "About Text"
 },
 {
 "type": "url",
-"id": "store_link",
-"label": "Store Url"
+"id": "contact_url",
+"label": "Contact"
 },
 {
-"type": "checkbox",
-"id": "language",
-"label": "Enable Language"
+"type": "text",
+"id": "contact_text",
+"label": "Contact Text"
 },
 {
 "type": "color_scheme",
