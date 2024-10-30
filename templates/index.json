@@ -80,8 +80,8 @@
         "slides_FA3CTm": {
           "type": "slides",
           "settings": {
-            "bg_image": "shopify://shop_images/o6.jpg",
-            "content_position": "center-center",
+            "bg_image": "shopify://shop_images/slideshow1_2x_9145b526-6d7f-4b77-bbf8-23c1353f9cd4.jpg",
+            "content_position": "left-center",
             "content_alignment": "left",
             "opacity": 10,
             "heading": "Dream Spaces: Your Imagination, Our Blueprint",
