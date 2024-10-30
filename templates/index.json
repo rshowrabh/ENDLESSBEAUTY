@@ -45,7 +45,7 @@
           "type": "slides",
           "settings": {
             "bg_image": "shopify://shop_images/sl-c-1.jpg",
-            "content_position": "left-center",
+            "content_position": "center-center",
             "content_alignment": "left",
             "opacity": 10,
             "heading": "Dream Spaces: Your Imagination, Our Blueprint",
