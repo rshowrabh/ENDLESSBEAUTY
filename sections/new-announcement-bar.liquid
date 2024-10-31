@@ -19,9 +19,11 @@
     <div class="social-info-bar">
       <div class="social-media">
         <div class="social-media-item">
+          {% render 'icon-phone' %}
             {{ section.settings.phone -}}
-        </div>
+        </div> | 
         <div class="social-media-item">
+          {% render 'icon-email' %}
             {{ section.settings.email -}}
         </div>
       </div>
@@ -31,7 +33,7 @@
       <div class="info">
         <a target="_blank" href="{{section.settings.about_url}}">
           {{section.settings.about_text}}
-        </a>
+        </a> | 
         <a target="_blank" href="{{section.settings.contact_url}}">
           {{section.settings.contact_text}}
         </a>
@@ -51,6 +53,9 @@
 {% schema %}
 {
 "name": "New Announcement Bar",
+"enabled_on": {
+    "groups": ["header"]
+  },
 "settings": [
 {
 "type": "text",
