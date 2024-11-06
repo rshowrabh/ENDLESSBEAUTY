@@ -258,6 +258,7 @@
         },
         "margin_padding_NQ7qTc": {
           "type": "margin_padding",
+          "disabled": true,
           "settings": {
             "mt": 0,
             "mt_lg": 0,
