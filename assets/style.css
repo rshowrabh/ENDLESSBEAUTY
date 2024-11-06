@@ -164,7 +164,7 @@ p {
   border: none !important;
 }
 .price {
-  font-size: 14px;
+  font-size: 14px  !important;
 }
 
 /* Only Desktop */
