@@ -248,6 +248,13 @@
             "image": "shopify://shop_images/4.webp",
             "link": ""
           }
+        },
+        "item_MgKR6a": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/mnj.png_1.webp",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -255,7 +262,8 @@
         "item_pxbHRR",
         "item_mbE9yN",
         "item_kNJ4Ad",
-        "item_ChAmLY"
+        "item_ChAmLY",
+        "item_MgKR6a"
       ],
       "settings": {
         "section_heading": "Write Heading",
