@@ -33,12 +33,25 @@
             "heading": "<strong>Information</strong>",
             "menu": "information"
           }
+        },
+        "contact_mBHJrm": {
+          "type": "contact",
+          "settings": {
+            "heading": "<strong>Contact Us</strong>",
+            "phone": "+88 01575 031394",
+            "email": "endlessbeautybd@gmail.com",
+            "address": "Kalabagan, Dhanmondi, Dhaka-1205",
+            "open_time": "Open Hours: 10am - 8pm",
+            "social_heading": "Follow us",
+            "show_social": false
+          }
         }
       },
       "block_order": [
         "brand_information_mHg6j8",
         "link_list_RAWLBJ",
-        "link_list_W639Vg"
+        "link_list_W639Vg",
+        "contact_mBHJrm"
       ],
       "settings": {
         "payment_width": 90,
