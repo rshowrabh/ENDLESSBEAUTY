@@ -118,7 +118,7 @@
             "button_link": "shopify://collections/cleansing",
             "text_position_left": 10,
             "text_position_bottom": 15,
-            "word_break": "100vW"
+            "word_break": "initial"
           }
         },
         "column_QWRdTJ": {
@@ -130,7 +130,7 @@
             "button_link": "shopify://collections/face-cream",
             "text_position_left": 10,
             "text_position_bottom": 16,
-            "word_break": "100vW"
+            "word_break": "initial"
           }
         },
         "column_XUCca9": {
