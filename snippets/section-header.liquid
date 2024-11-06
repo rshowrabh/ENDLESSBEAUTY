@@ -1,0 +1,8 @@
+{%- if section.settings.section_heading !=blank or section.settings.section_text !=blank -%}
+    <div class="section-top {{ section.settings.content_position }}">
+        <h2 class="section-heading">
+            {{ section.settings.section_heading }}
+        </h2>
+        <p class="section-text">{{ section.settings.section_text }}</p>
+    </div>
+    {%- endif -%}

@@ -163,6 +163,9 @@ p {
 .footer__content-bottom {
   border: none !important;
 }
+.price {
+  font-size: 14px;
+}
 
 /* Only Desktop */
 @media only screen and (min-width: 768px) {
