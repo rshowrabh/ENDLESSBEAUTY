@@ -255,6 +255,23 @@
             "image": "shopify://shop_images/mnj.png_1.webp",
             "link": ""
           }
+        },
+        "margin_padding_NQ7qTc": {
+          "type": "margin_padding",
+          "settings": {
+            "mt": 0,
+            "mt_lg": 0,
+            "mt_md": 0,
+            "mb": 0,
+            "mb_lg": 0,
+            "mb_md": 0,
+            "pt": 40,
+            "pt_lg": 40,
+            "pt_md": 30,
+            "pb": 40,
+            "pb_lg": 40,
+            "pb_md": 30
+          }
         }
       },
       "block_order": [
@@ -263,7 +280,8 @@
         "item_mbE9yN",
         "item_kNJ4Ad",
         "item_ChAmLY",
-        "item_MgKR6a"
+        "item_MgKR6a",
+        "margin_padding_NQ7qTc"
       ],
       "settings": {
         "section_heading": "#INSTAGRAM",
