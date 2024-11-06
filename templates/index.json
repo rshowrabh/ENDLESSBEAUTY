@@ -217,19 +217,45 @@
         "item_nP9aBU": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/image_1800x_15619cda-b98d-4128-8f33-ce5ac770c58b.jpg",
             "link": ""
           }
         },
         "item_pxbHRR": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/PinkNippeeJelly.png",
+            "link": ""
+          }
+        },
+        "item_mbE9yN": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/VIP-Aura-Bright-Green-Apple-Whitening-Cream_1024x1024_ff9b821d-19ab-4ca7-bc92-a1c398508641.jpg",
+            "link": ""
+          }
+        },
+        "item_kNJ4Ad": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5_1800x1800_1a9cf782-bb0c-43c4-8ade-30063b83203c.jpg",
+            "link": ""
+          }
+        },
+        "item_ChAmLY": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4.webp",
             "link": ""
           }
         }
       },
       "block_order": [
         "item_nP9aBU",
-        "item_pxbHRR"
+        "item_pxbHRR",
+        "item_mbE9yN",
+        "item_kNJ4Ad",
+        "item_ChAmLY"
       ],
       "settings": {
         "section_heading": "Write Heading",
