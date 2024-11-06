@@ -132,69 +132,55 @@
             "text_position_bottom": 16,
             "word_break": "100vW"
           }
+        },
+        "column_XUCca9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/banner19.webp",
+            "heading": "Intensive Glow C+ Serum",
+            "button_label": "Explore More",
+            "button_link": "",
+            "text_position_left": 0,
+            "text_position_bottom": 0,
+            "word_break": "initial"
+          }
+        },
+        "column_kBpYBQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/banner19.webp",
+            "heading": "Intensive Glow C+ Serum",
+            "button_label": "Explore More",
+            "button_link": "",
+            "text_position_left": 0,
+            "text_position_bottom": 0,
+            "word_break": "initial"
+          }
+        },
+        "column_BJrrxB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/banner19.webp",
+            "heading": "Intensive Glow C+ Serum",
+            "button_label": "Explore More",
+            "button_link": "",
+            "text_position_left": 0,
+            "text_position_bottom": 0,
+            "word_break": "initial"
+          }
         }
       },
       "block_order": [
         "column_3Vdq8N",
-        "column_QWRdTJ"
+        "column_QWRdTJ",
+        "column_XUCca9",
+        "column_kBpYBQ",
+        "column_BJrrxB"
       ],
       "settings": {
         "color_scheme": "",
         "padding_top": 40,
-        "padding_bottom": 0,
-        "column": "two"
-      }
-    },
-    "collection_2_column_U9pDQm": {
-      "type": "collection-2-column",
-      "blocks": {
-        "column_h9TjEt": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/banner19.webp",
-            "heading": "Intensive Glow",
-            "button_label": "Explore More",
-            "button_link": "shopify://collections/face-pack",
-            "text_position_left": 17,
-            "text_position_bottom": 8,
-            "word_break": "initial"
-          }
-        },
-        "column_76rifV": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/banner19.webp",
-            "heading": "Intensive Glow",
-            "button_label": "Explore More",
-            "button_link": "",
-            "text_position_left": 17,
-            "text_position_bottom": 8,
-            "word_break": "initial"
-          }
-        },
-        "column_NhWcdh": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/banner19.webp",
-            "heading": "Intensive Glow",
-            "button_label": "Explore More",
-            "button_link": "",
-            "text_position_left": 17,
-            "text_position_bottom": 8,
-            "word_break": "initial"
-          }
-        }
-      },
-      "block_order": [
-        "column_h9TjEt",
-        "column_76rifV",
-        "column_NhWcdh"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "padding_top": 12,
-        "padding_bottom": 52,
-        "column": "three"
+        "padding_bottom": 0
       }
     },
     "new_featured_collection_VNmiar": {
@@ -257,7 +243,6 @@
     "featured_collection",
     "image_banner_slider_79xpDx",
     "collection_2_column_dNQ7DF",
-    "collection_2_column_U9pDQm",
     "new_featured_collection_VNmiar",
     "instagram_QPGGyd"
   ]
