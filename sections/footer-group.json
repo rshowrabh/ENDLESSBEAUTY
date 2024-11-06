@@ -23,8 +23,8 @@
         "link_list_RAWLBJ": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
-            "menu": "information"
+            "heading": "Policies",
+            "menu": "policies"
           }
         }
       },
