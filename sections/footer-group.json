@@ -26,11 +26,19 @@
             "heading": "Policies",
             "menu": "policies"
           }
+        },
+        "link_list_W639Vg": {
+          "type": "link_list",
+          "settings": {
+            "heading": "<strong>Information</strong>",
+            "menu": "information"
+          }
         }
       },
       "block_order": [
         "brand_information_mHg6j8",
-        "link_list_RAWLBJ"
+        "link_list_RAWLBJ",
+        "link_list_W639Vg"
       ],
       "settings": {
         "payment_width": 90,
