@@ -29,7 +29,7 @@
       {%- else -%}
         <div>
             <div class="grid">
-              <marquee>
+              <marquee loop="">
         {% for block in section.blocks %}
               <a href="{{ block.settings.link }}" style="padding:20px">
                  <img src="{{ block.settings.img| image_url }}" alt="">
