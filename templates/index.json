@@ -297,21 +297,21 @@
         "text_c9BkBp": {
           "type": "text",
           "settings": {
-            "img": "shopify://shop_images/Fiorae-Ultra-White-With-Glu.jpg",
+            "img": "shopify://shop_images/brand2.jpg",
             "link": ""
           }
         },
         "text_nmACe3": {
           "type": "text",
           "settings": {
-            "img": "shopify://shop_images/428382867_122103760790214562_4272348549705974106_n_png.webp",
+            "img": "shopify://shop_images/brand3.jpg",
             "link": ""
           }
         },
-        "text_wdHjRj": {
+        "text_eWG4Cn": {
           "type": "text",
           "settings": {
-            "img": "shopify://shop_images/image_700x_309f5b8d-8599-4c68-b1a2-9cd12b64aa06.jpg",
+            "img": "shopify://shop_images/brand1.jpg",
             "link": ""
           }
         }
@@ -319,7 +319,7 @@
       "block_order": [
         "text_c9BkBp",
         "text_nmACe3",
-        "text_wdHjRj"
+        "text_eWG4Cn"
       ],
       "settings": {
         "page": "",
