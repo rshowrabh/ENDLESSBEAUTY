@@ -290,6 +290,44 @@
         "make_slider": true,
         "color_scheme": ""
       }
+    },
+    "brand_logo_AdNazV": {
+      "type": "brand-logo",
+      "blocks": {
+        "text_c9BkBp": {
+          "type": "text",
+          "settings": {
+            "img": "shopify://shop_images/Fiorae-Ultra-White-With-Glu.jpg",
+            "link": ""
+          }
+        },
+        "text_nmACe3": {
+          "type": "text",
+          "settings": {
+            "img": "shopify://shop_images/428382867_122103760790214562_4272348549705974106_n_png.webp",
+            "link": ""
+          }
+        },
+        "text_wdHjRj": {
+          "type": "text",
+          "settings": {
+            "img": "shopify://shop_images/image_700x_309f5b8d-8599-4c68-b1a2-9cd12b64aa06.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_c9BkBp",
+        "text_nmACe3",
+        "text_wdHjRj"
+      ],
+      "settings": {
+        "page": "",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -297,6 +335,7 @@
     "image_banner_slider_79xpDx",
     "collection_2_column_dNQ7DF",
     "new_featured_collection_VNmiar",
-    "instagram_QPGGyd"
+    "instagram_QPGGyd",
+    "brand_logo_AdNazV"
   ]
 }
