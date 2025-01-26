@@ -191,7 +191,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "face-care",
+        "collection": "latest-arrival",
         "products_to_show": 12,
         "columns_desktop": 4,
         "full_width": false,
