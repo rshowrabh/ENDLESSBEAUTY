@@ -123,8 +123,8 @@
             "heading": "For Men",
             "button_label": "Explore More",
             "button_link": "",
-            "text_position_left": 0,
-            "text_position_bottom": 0,
+            "text_position_left": 12,
+            "text_position_bottom": 12,
             "word_break": "initial"
           }
         },
@@ -135,8 +135,8 @@
             "heading": "For Women",
             "button_label": "Explore More",
             "button_link": "",
-            "text_position_left": 0,
-            "text_position_bottom": 0,
+            "text_position_left": 12,
+            "text_position_bottom": 12,
             "word_break": "initial"
           }
         },
@@ -147,8 +147,8 @@
             "heading": "Intensive Glow C+ Serum",
             "button_label": "Explore More",
             "button_link": "",
-            "text_position_left": 0,
-            "text_position_bottom": 0,
+            "text_position_left": 12,
+            "text_position_bottom": 12,
             "word_break": "initial"
           }
         },
@@ -159,8 +159,8 @@
             "heading": "Intensive Glow C+ Serum",
             "button_label": "Explore More",
             "button_link": "",
-            "text_position_left": 0,
-            "text_position_bottom": 0,
+            "text_position_left": 12,
+            "text_position_bottom": 12,
             "word_break": "initial"
           }
         },
@@ -171,7 +171,7 @@
             "heading": "Intensive Glow C+ Serum",
             "button_label": "Explore More",
             "button_link": "",
-            "text_position_left": 0,
+            "text_position_left": 12,
             "text_position_bottom": 0,
             "word_break": "initial"
           }
