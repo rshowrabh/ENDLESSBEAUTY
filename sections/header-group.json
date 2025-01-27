@@ -65,10 +65,29 @@
             "enable_link": false,
             "color_scheme": "accent-1"
           }
+        },
+        "slides_ah6K78": {
+          "type": "slides",
+          "settings": {
+            "bg_image": "shopify://shop_images/banner17.webp",
+            "content_position": "center-center",
+            "content_alignment": "left",
+            "opacity": 10,
+            "heading": "Dream Spaces: Your Imagination, Our Blueprint",
+            "sub_heading": "Discover our vast collection of curated designs and embark on a journey to redefine your living space.",
+            "text": "",
+            "btn_label": "Shop now",
+            "url": "",
+            "second_label": "",
+            "second_url": "",
+            "enable_link": false,
+            "color_scheme": "accent-1"
+          }
         }
       },
       "block_order": [
-        "slides_JgYPRh"
+        "slides_JgYPRh",
+        "slides_ah6K78"
       ],
       "settings": {
         "slider_height": "default",
