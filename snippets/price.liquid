@@ -120,8 +120,8 @@
   {%- if show_badges -%}
     
     <span class="badge price__badge-sale color-{{ settings.sale_badge_color_scheme }}">
-      -{{ compare_at_price | minus: price | times: 100 | divided_by: compare_at_price }}%
-      {{ settings.aftertext }}
+        {{ compare_at_price | minus: price | money_without_trailing_zeros }}
+        {{ settings.aftertext }}
     </span>
 
     <span class="badge price__badge-sold-out color-{{ settings.sold_out_badge_color_scheme }}">
