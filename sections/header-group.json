@@ -139,11 +139,50 @@
             "text_position_bottom": 0,
             "word_break": "initial"
           }
+        },
+        "column_9c3dxm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/h11_s1.jpg",
+            "heading": "Intensive Glow C+ Serum",
+            "button_label": "Explore More",
+            "button_link": "",
+            "text_position_left": 0,
+            "text_position_bottom": 0,
+            "word_break": "initial"
+          }
+        },
+        "column_4fiLiN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/CabanaGlow-edit-6-retouch_1.jpg",
+            "heading": "Intensive Glow C+ Serum",
+            "button_label": "Explore More",
+            "button_link": "",
+            "text_position_left": 0,
+            "text_position_bottom": 0,
+            "word_break": "initial"
+          }
+        },
+        "column_YMpt8A": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/banner17.webp",
+            "heading": "Intensive Glow C+ Serum",
+            "button_label": "Explore More",
+            "button_link": "",
+            "text_position_left": 0,
+            "text_position_bottom": 0,
+            "word_break": "initial"
+          }
         }
       },
       "block_order": [
         "column_zUTgDc",
-        "column_zygp4B"
+        "column_zygp4B",
+        "column_9c3dxm",
+        "column_4fiLiN",
+        "column_YMpt8A"
       ],
       "settings": {
         "color_scheme": "",
