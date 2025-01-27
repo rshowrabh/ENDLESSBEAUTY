@@ -83,11 +83,30 @@
             "enable_link": false,
             "color_scheme": "accent-1"
           }
+        },
+        "slides_Ex3VYC": {
+          "type": "slides",
+          "settings": {
+            "bg_image_mob": "shopify://shop_images/slideshow1_2x_9145b526-6d7f-4b77-bbf8-23c1353f9cd4.jpg",
+            "content_position": "center-center",
+            "content_alignment": "left",
+            "opacity": 10,
+            "heading": "",
+            "sub_heading": "",
+            "text": "",
+            "btn_label": "",
+            "url": "",
+            "second_label": "",
+            "second_url": "",
+            "enable_link": false,
+            "color_scheme": "accent-1"
+          }
         }
       },
       "block_order": [
         "slides_JgYPRh",
-        "slides_ah6K78"
+        "slides_ah6K78",
+        "slides_Ex3VYC"
       ],
       "settings": {
         "slider_height": "default",
