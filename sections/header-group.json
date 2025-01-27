@@ -131,6 +131,7 @@
         "column_zygp4B": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/o15.jpg",
             "heading": "For Women",
             "button_label": "Explore More",
             "button_link": "",
