@@ -9,74 +9,6 @@
  */
 {
   "sections": {
-    "image_banner_slider_79xpDx": {
-      "type": "image-banner-slider",
-      "blocks": {
-        "slides_CCJnG6": {
-          "type": "slides",
-          "settings": {
-            "bg_image": "shopify://shop_images/sl-c-1.jpg",
-            "content_position": "center-center",
-            "content_alignment": "left",
-            "opacity": 10,
-            "heading": "BEAUTY TREND",
-            "sub_heading": "DON'T MISS TODAY'S FETURED DEALS",
-            "text": "<p>Here to bring your life style to the next level.</p>",
-            "btn_label": "Shop now",
-            "url": "",
-            "second_label": "",
-            "second_url": "",
-            "enable_link": false,
-            "color_scheme": "scheme-3"
-          }
-        },
-        "slides_D3zzzh": {
-          "type": "slides",
-          "settings": {
-            "bg_image": "shopify://shop_images/c-bn-3.jpg",
-            "content_position": "center-center",
-            "content_alignment": "left",
-            "opacity": 10,
-            "heading": "BASIC COLLECTION",
-            "sub_heading": "",
-            "text": "<p>Here to bring your life style to the next level.</p>",
-            "btn_label": "Shop now",
-            "url": "",
-            "second_label": "",
-            "second_url": "",
-            "enable_link": false,
-            "color_scheme": "scheme-1"
-          }
-        },
-        "slides_FA3CTm": {
-          "type": "slides",
-          "settings": {
-            "bg_image": "shopify://shop_images/slideshow1_2x_9145b526-6d7f-4b77-bbf8-23c1353f9cd4.jpg",
-            "content_position": "left-center",
-            "content_alignment": "left",
-            "opacity": 10,
-            "heading": "Don't call it makeup",
-            "sub_heading": "Even Better Clinical Seram Foundation",
-            "text": "",
-            "btn_label": "Shop now",
-            "url": "",
-            "second_label": "",
-            "second_url": "",
-            "enable_link": false,
-            "color_scheme": "accent-1"
-          }
-        }
-      },
-      "block_order": [
-        "slides_CCJnG6",
-        "slides_D3zzzh",
-        "slides_FA3CTm"
-      ],
-      "settings": {
-        "slider_height": "default",
-        "center_width": false
-      }
-    },
     "new_featured_collection_VNmiar": {
       "type": "new-featured-collection",
       "settings": {
@@ -302,7 +234,6 @@
     }
   },
   "order": [
-    "image_banner_slider_79xpDx",
     "new_featured_collection_VNmiar",
     "instagram_QPGGyd",
     "brand_logo_AdNazV",
