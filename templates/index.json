@@ -106,83 +106,6 @@
         "center_width": false
       }
     },
-    "collection_2_column_dNQ7DF": {
-      "type": "collection-2-column",
-      "blocks": {
-        "column_3Vdq8N": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/o6.jpg",
-            "heading": "For Men",
-            "button_label": "Explore More",
-            "button_link": "shopify://collections/cleansing",
-            "text_position_left": 10,
-            "text_position_bottom": 15,
-            "word_break": "initial"
-          }
-        },
-        "column_QWRdTJ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/o15.jpg",
-            "heading": "For Women",
-            "button_label": "Shop Now",
-            "button_link": "shopify://collections/face-cream",
-            "text_position_left": 10,
-            "text_position_bottom": 16,
-            "word_break": "initial"
-          }
-        },
-        "column_XUCca9": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/h11_s1.jpg",
-            "heading": "Intensive Glow C+ Serum",
-            "button_label": "Explore More",
-            "button_link": "",
-            "text_position_left": 8,
-            "text_position_bottom": 10,
-            "word_break": "initial"
-          }
-        },
-        "column_kBpYBQ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/CabanaGlow-edit-6-retouch_1.jpg",
-            "heading": "Intensive Glow C+ Serum",
-            "button_label": "Explore More",
-            "button_link": "",
-            "text_position_left": 15,
-            "text_position_bottom": 45,
-            "word_break": "initial"
-          }
-        },
-        "column_BJrrxB": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/banner17.webp",
-            "heading": "Intensive Glow C+ Serum",
-            "button_label": "Explore More",
-            "button_link": "",
-            "text_position_left": 15,
-            "text_position_bottom": 12,
-            "word_break": "initial"
-          }
-        }
-      },
-      "block_order": [
-        "column_3Vdq8N",
-        "column_QWRdTJ",
-        "column_XUCca9",
-        "column_kBpYBQ",
-        "column_BJrrxB"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 40
-      }
-    },
     "new_featured_collection_VNmiar": {
       "type": "new-featured-collection",
       "settings": {
@@ -328,14 +251,91 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "collection_2_column_dNQ7DF": {
+      "type": "collection-2-column",
+      "blocks": {
+        "column_3Vdq8N": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/o6.jpg",
+            "heading": "For Men",
+            "button_label": "Explore More",
+            "button_link": "shopify://collections/cleansing",
+            "text_position_left": 10,
+            "text_position_bottom": 15,
+            "word_break": "initial"
+          }
+        },
+        "column_QWRdTJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/o15.jpg",
+            "heading": "For Women",
+            "button_label": "Shop Now",
+            "button_link": "shopify://collections/face-cream",
+            "text_position_left": 10,
+            "text_position_bottom": 16,
+            "word_break": "initial"
+          }
+        },
+        "column_XUCca9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/h11_s1.jpg",
+            "heading": "Intensive Glow C+ Serum",
+            "button_label": "Explore More",
+            "button_link": "",
+            "text_position_left": 8,
+            "text_position_bottom": 10,
+            "word_break": "initial"
+          }
+        },
+        "column_kBpYBQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/CabanaGlow-edit-6-retouch_1.jpg",
+            "heading": "Intensive Glow C+ Serum",
+            "button_label": "Explore More",
+            "button_link": "",
+            "text_position_left": 15,
+            "text_position_bottom": 45,
+            "word_break": "initial"
+          }
+        },
+        "column_BJrrxB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/banner17.webp",
+            "heading": "Intensive Glow C+ Serum",
+            "button_label": "Explore More",
+            "button_link": "",
+            "text_position_left": 15,
+            "text_position_bottom": 12,
+            "word_break": "initial"
+          }
+        }
+      },
+      "block_order": [
+        "column_3Vdq8N",
+        "column_QWRdTJ",
+        "column_XUCca9",
+        "column_kBpYBQ",
+        "column_BJrrxB"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
     }
   },
   "order": [
     "featured_collection",
     "image_banner_slider_79xpDx",
-    "collection_2_column_dNQ7DF",
     "new_featured_collection_VNmiar",
     "instagram_QPGGyd",
-    "brand_logo_AdNazV"
+    "brand_logo_AdNazV",
+    "collection_2_column_dNQ7DF"
   ]
 }

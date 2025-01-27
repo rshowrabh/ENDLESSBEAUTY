@@ -44,10 +44,66 @@
         "padding_top": 0,
         "padding_bottom": 4
       }
+    },
+    "image_banner_slider_RULwLj": {
+      "type": "image-banner-slider",
+      "blocks": {
+        "slides_JgYPRh": {
+          "type": "slides",
+          "settings": {
+            "bg_image": "shopify://shop_images/sl-c-1.jpg",
+            "content_position": "center-center",
+            "content_alignment": "left",
+            "opacity": 10,
+            "heading": "Dream Spaces: Your Imagination, Our Blueprint",
+            "sub_heading": "Discover our vast collection of curated designs and embark on a journey to redefine your living space.",
+            "text": "",
+            "btn_label": "Shop now",
+            "url": "",
+            "second_label": "",
+            "second_url": "",
+            "enable_link": false,
+            "color_scheme": "accent-1"
+          }
+        }
+      },
+      "block_order": [
+        "slides_JgYPRh"
+      ],
+      "settings": {
+        "slider_height": "default",
+        "center_width": false
+      }
+    },
+    "collection_2_column_xHpGRR": {
+      "type": "collection-2-column",
+      "blocks": {
+        "column_zUTgDc": {
+          "type": "column",
+          "settings": {
+            "heading": "Intensive Glow C+ Serum",
+            "button_label": "Explore More",
+            "button_link": "",
+            "text_position_left": 0,
+            "text_position_bottom": 0,
+            "word_break": "initial"
+          }
+        }
+      },
+      "block_order": [
+        "column_zUTgDc"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "new_announcement_bar_qLTEMn",
-    "header"
+    "header",
+    "image_banner_slider_RULwLj",
+    "collection_2_column_xHpGRR"
   ]
 }
