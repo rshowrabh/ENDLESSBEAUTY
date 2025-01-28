@@ -45,31 +45,6 @@
     %}
 
     {% style %}
-       .price__badge-sale,.badge .color-scheme-4,.badge {
-              background-color: {{ settings.aftertextbackgroundcolor }} !important;
-              color: {{ settings.aftertextcolor }} !important;
-              font-size: {{ settings.font_size_badge }}px !important;
-              border-radius: {{ settings.badge_border_radius }}px !important;
-              padding-top: {{ settings.badge_padding_top }}px !important;
-              padding-bottom: {{ settings.badge_padding_bottom }}px !important;
-
-              {% if settings.badge_animation %}
-                animation: pulse 2s infinite ease-in-out;
-              {% endif %}
-            }
-
-            @keyframes pulse {
-              0% {
-                transform: scale(1);
-              }
-              50% {
-                transform: scale(1.1);
-              }
-              to {
-                transform: scale(1);
-              }
-            }
-      
       {{ settings.type_body_font | font_face: font_display: 'swap' }}
       {{ body_font_bold | font_face: font_display: 'swap' }}
       {{ body_font_italic | font_face: font_display: 'swap' }}
@@ -311,7 +286,7 @@
         document.documentElement.classList.add('shopify-design-mode');
       }
     </script>
-  {% include 'pagefly-app-header' %}</head>
+  </head>
 
   <body class="gradient{% if settings.animations_hover_elements != 'none' %} animate--hover-{{ settings.animations_hover_elements }}{% endif %}">
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
