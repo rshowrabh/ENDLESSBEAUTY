@@ -164,7 +164,7 @@
             "image": "shopify://shop_images/o6.jpg",
             "heading": "For Men",
             "button_label": "Explore More",
-            "button_link": "shopify://collections/cleansing",
+            "button_link": "shopify://collections/face-care",
             "text_position_left": 10,
             "text_position_bottom": 15,
             "word_break": "initial"
