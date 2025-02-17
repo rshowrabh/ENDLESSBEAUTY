@@ -9,6 +9,36 @@
  */
 {
   "sections": {
+    "image_banner_slider_tqYGW6": {
+      "type": "image-banner-slider",
+      "blocks": {
+        "slides_pP98jd": {
+          "type": "slides",
+          "settings": {
+            "bg_image": "shopify://shop_images/sl-c-1.jpg",
+            "content_position": "center-center",
+            "content_alignment": "left",
+            "opacity": 10,
+            "heading": "Dream Spaces: Your Imagination, Our Blueprint",
+            "sub_heading": "Discover our vast collection of curated designs and embark on a journey to redefine your living space.",
+            "text": "",
+            "btn_label": "Shop now",
+            "url": "",
+            "second_label": "",
+            "second_url": "",
+            "enable_link": false,
+            "color_scheme": "accent-1"
+          }
+        }
+      },
+      "block_order": [
+        "slides_pP98jd"
+      ],
+      "settings": {
+        "slider_height": "default",
+        "center_width": false
+      }
+    },
     "collection_2_column_dNQ7DF": {
       "type": "collection-2-column",
       "blocks": {
@@ -114,6 +144,44 @@
         "padding_bottom": 36
       }
     },
+    "brand_logo_AdNazV": {
+      "type": "brand-logo",
+      "blocks": {
+        "text_c9BkBp": {
+          "type": "text",
+          "settings": {
+            "img": "shopify://shop_images/brand2.jpg",
+            "link": ""
+          }
+        },
+        "text_nmACe3": {
+          "type": "text",
+          "settings": {
+            "img": "shopify://shop_images/brand3.jpg",
+            "link": ""
+          }
+        },
+        "text_eWG4Cn": {
+          "type": "text",
+          "settings": {
+            "img": "shopify://shop_images/brand1.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_c9BkBp",
+        "text_nmACe3",
+        "text_eWG4Cn"
+      ],
+      "settings": {
+        "page": "",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "instagram_QPGGyd": {
       "type": "instagram",
       "blocks": {
@@ -193,50 +261,13 @@
         "make_slider": true,
         "color_scheme": ""
       }
-    },
-    "brand_logo_AdNazV": {
-      "type": "brand-logo",
-      "blocks": {
-        "text_c9BkBp": {
-          "type": "text",
-          "settings": {
-            "img": "shopify://shop_images/brand2.jpg",
-            "link": ""
-          }
-        },
-        "text_nmACe3": {
-          "type": "text",
-          "settings": {
-            "img": "shopify://shop_images/brand3.jpg",
-            "link": ""
-          }
-        },
-        "text_eWG4Cn": {
-          "type": "text",
-          "settings": {
-            "img": "shopify://shop_images/brand1.jpg",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_c9BkBp",
-        "text_nmACe3",
-        "text_eWG4Cn"
-      ],
-      "settings": {
-        "page": "",
-        "heading_size": "h1",
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
+    "image_banner_slider_tqYGW6",
     "collection_2_column_dNQ7DF",
     "new_featured_collection_VNmiar",
-    "instagram_QPGGyd",
-    "brand_logo_AdNazV"
+    "brand_logo_AdNazV",
+    "instagram_QPGGyd"
   ]
 }
