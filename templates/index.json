@@ -70,7 +70,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/h11_s1.jpg",
-            "heading": "Intensive Glow C+ Serum",
+            "heading": "Harir Care",
             "button_label": "Explore More",
             "button_link": "shopify://collections/hair-care-1",
             "text_position_left": 8,
@@ -82,11 +82,11 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/CabanaGlow-edit-6-retouch_1.jpg",
-            "heading": "Intensive Glow C+ Serum",
+            "heading": "Supplements",
             "button_label": "Explore More",
-            "button_link": "",
+            "button_link": "shopify://collections/suppliments",
             "text_position_left": 15,
-            "text_position_bottom": 45,
+            "text_position_bottom": 10,
             "word_break": "initial"
           }
         },
