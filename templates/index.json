@@ -69,12 +69,12 @@
         "column_XUCca9": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/h11_s1.jpg",
+            "image": "shopify://shop_images/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJQcm9kdWN0LXBfaW1hZ2VzXC82NjYxM1wvNjY2MTMta290YS1kb3VibGUtY2FyZS1rZXJhdGluLXRyZWF0bWVudC1oYWlyLW1hc2s2LW4wdDZ3ai5qcGVnIiwiZWRpdHMiOltdfQ.webp",
             "heading": "Hair Care",
             "button_label": "Explore More",
             "button_link": "shopify://collections/hair-care-1",
             "text_position_left": 8,
-            "text_position_bottom": 10,
+            "text_position_bottom": 8,
             "word_break": "initial"
           }
         },
