@@ -70,7 +70,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/h11_s1.jpg",
-            "heading": "Harir Care",
+            "heading": "Hair Care",
             "button_label": "Explore More",
             "button_link": "shopify://collections/hair-care-1",
             "text_position_left": 8,
