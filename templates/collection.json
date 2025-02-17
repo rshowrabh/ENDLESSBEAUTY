@@ -36,101 +36,10 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "collection_2_column_rdW8Md": {
-      "type": "collection-2-column",
-      "blocks": {
-        "column_T7kk9q": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/banner19.webp",
-            "heading": "Intensive Glow C+ Serum",
-            "button_label": "Explore More",
-            "button_link": "",
-            "text_position_left": 4,
-            "text_position_bottom": 4,
-            "word_break": "initial"
-          }
-        },
-        "column_6c4UmB": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/463182683_533172139359842_5986918029939203457_n.jpg",
-            "heading": "Intensive Glow C+ Serum",
-            "button_label": "Explore More",
-            "button_link": "shopify://collections/face-pack",
-            "text_position_left": 0,
-            "text_position_bottom": 0,
-            "word_break": "initial"
-          }
-        },
-        "column_rxfxXW": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Nagano-Pink-Nipple-Jelly-Cloud-Shop-BD2.jpg",
-            "heading": "Intensive Glow C+ Serum",
-            "button_label": "Explore More",
-            "button_link": "",
-            "text_position_left": 0,
-            "text_position_bottom": 0,
-            "word_break": "initial"
-          }
-        }
-      },
-      "block_order": [
-        "column_T7kk9q",
-        "column_6c4UmB",
-        "column_rxfxXW"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "padding_top": 16,
-        "padding_bottom": 52
-      }
-    },
-    "collection_2_column_mPcAGJ": {
-      "type": "collection-2-column",
-      "blocks": {
-        "column_UT9JYK": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/banner17.webp",
-            "heading": "For Women",
-            "button_label": "Explore More",
-            "button_link": "",
-            "text_position_left": 6,
-            "text_position_bottom": 6,
-            "word_break": "initial"
-          }
-        },
-        "column_VKCxxT": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/banner17.webp",
-            "heading": "Intensive Glow C+ Serum",
-            "button_label": "Explore More",
-            "button_link": "",
-            "text_position_left": 0,
-            "text_position_bottom": 0,
-            "word_break": "initial"
-          }
-        }
-      },
-      "block_order": [
-        "column_UT9JYK",
-        "column_VKCxxT"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
     }
   },
   "order": [
     "banner",
-    "product-grid",
-    "collection_2_column_rdW8Md",
-    "collection_2_column_mPcAGJ"
+    "product-grid"
   ]
 }
