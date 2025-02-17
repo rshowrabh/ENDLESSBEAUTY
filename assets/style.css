@@ -68,7 +68,7 @@ p {
 }
 .title-wrapper--no-top-margin > .title {
   text-align: center;
-  font-weight: 600;
+  font-weight: 400;
 }
 /* Language Selector */
 .header-localization:not(.menu-drawer__localization)
