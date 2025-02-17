@@ -58,9 +58,9 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/o15.jpg",
-            "heading": "For Women",
+            "heading": "Body Care",
             "button_label": "Shop Now",
-            "button_link": "shopify://collections/face-cream",
+            "button_link": "shopify://collections/body-care",
             "text_position_left": 10,
             "text_position_bottom": 16,
             "word_break": "initial"
