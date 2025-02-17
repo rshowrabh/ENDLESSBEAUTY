@@ -72,7 +72,7 @@
             "image": "shopify://shop_images/h11_s1.jpg",
             "heading": "Intensive Glow C+ Serum",
             "button_label": "Explore More",
-            "button_link": "",
+            "button_link": "shopify://collections/hair-care-1",
             "text_position_left": 8,
             "text_position_bottom": 10,
             "word_break": "initial"
