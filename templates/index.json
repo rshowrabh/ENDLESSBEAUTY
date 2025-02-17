@@ -85,7 +85,7 @@
             "heading": "Supplements",
             "button_label": "Explore More",
             "button_link": "shopify://collections/suppliments",
-            "text_position_left": 15,
+            "text_position_left": 10,
             "text_position_bottom": 10,
             "word_break": "initial"
           }
@@ -94,9 +94,9 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/banner17.webp",
-            "heading": "Intensive Glow C+ Serum",
-            "button_label": "Explore More",
-            "button_link": "",
+            "heading": "Combo",
+            "button_label": "Shop Now",
+            "button_link": "shopify://collections/combo-deal",
             "text_position_left": 15,
             "text_position_bottom": 12,
             "word_break": "initial"
