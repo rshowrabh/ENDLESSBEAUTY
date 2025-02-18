@@ -50,7 +50,7 @@
             "button_label": "Explore More!",
             "button_link": "shopify://collections/face-care",
             "text_position_left": 10,
-            "text_position_bottom": 15,
+            "text_position_bottom": 10,
             "word_break": "initial"
           }
         },
@@ -62,7 +62,7 @@
             "button_label": "Shop Now",
             "button_link": "shopify://collections/body-care",
             "text_position_left": 10,
-            "text_position_bottom": 16,
+            "text_position_bottom": 10,
             "word_break": "initial"
           }
         },
@@ -73,8 +73,8 @@
             "heading": "Hair Care",
             "button_label": "Explore More",
             "button_link": "shopify://collections/hair-care-1",
-            "text_position_left": 8,
-            "text_position_bottom": 8,
+            "text_position_left": 10,
+            "text_position_bottom": 10,
             "word_break": "initial"
           }
         },
@@ -98,7 +98,7 @@
             "button_label": "Shop Now",
             "button_link": "shopify://collections/combo-deal",
             "text_position_left": 10,
-            "text_position_bottom": 12,
+            "text_position_bottom": 10,
             "word_break": "initial"
           }
         }
