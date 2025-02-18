@@ -86,7 +86,7 @@
             "button_label": "Shop Now",
             "button_link": "shopify://collections/suppliments",
             "text_position_left": 10,
-            "text_position_bottom": 79,
+            "text_position_bottom": 70,
             "word_break": "initial"
           }
         },
