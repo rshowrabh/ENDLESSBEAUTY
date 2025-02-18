@@ -147,17 +147,17 @@
     "brand_logo_AdNazV": {
       "type": "brand-logo",
       "blocks": {
+        "text_nmACe3": {
+          "type": "text",
+          "settings": {
+            "img": "shopify://shop_images/dabo.jpg",
+            "link": ""
+          }
+        },
         "text_c9BkBp": {
           "type": "text",
           "settings": {
             "img": "shopify://shop_images/nagano-logo_c4101250-587d-492a-9d20-47fd6c6ad04b.jpg",
-            "link": ""
-          }
-        },
-        "text_nmACe3": {
-          "type": "text",
-          "settings": {
-            "img": "shopify://shop_images/brand3.jpg",
             "link": ""
           }
         },
@@ -170,8 +170,8 @@
         }
       },
       "block_order": [
-        "text_c9BkBp",
         "text_nmACe3",
+        "text_c9BkBp",
         "text_eWG4Cn"
       ],
       "settings": {
