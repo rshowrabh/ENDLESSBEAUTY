@@ -23,10 +23,10 @@
             "sub_heading": "",
             "text": "",
             "btn_label": "",
-            "url": "",
+            "url": "shopify://collections/body-cream",
             "second_label": "",
             "second_url": "",
-            "enable_link": false,
+            "enable_link": true,
             "color_scheme": "accent-1"
           }
         }
