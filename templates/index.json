@@ -16,6 +16,7 @@
           "type": "slides",
           "settings": {
             "bg_image": "shopify://shop_images/BODY-CREAM_3c8d4d18-5d7f-4af2-ae09-9eb154f136ca.jpg",
+            "bg_image_mob": "shopify://shop_images/slider-mobile.jpg",
             "content_position": "center-center",
             "content_alignment": "left",
             "opacity": 10,
