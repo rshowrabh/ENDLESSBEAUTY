@@ -49,11 +49,31 @@
             "enable_link": true,
             "color_scheme": "accent-1"
           }
+        },
+        "slides_iwiLw7": {
+          "type": "slides",
+          "settings": {
+            "bg_image": "shopify://shop_images/Lipgel-Desktop.jpg",
+            "bg_image_mob": "shopify://shop_images/Lipgel-mobile.jpg",
+            "content_position": "center-center",
+            "content_alignment": "left",
+            "opacity": 10,
+            "heading": "",
+            "sub_heading": "",
+            "text": "",
+            "btn_label": "",
+            "url": "shopify://collections/lip-jelly",
+            "second_label": "",
+            "second_url": "",
+            "enable_link": true,
+            "color_scheme": "accent-1"
+          }
         }
       },
       "block_order": [
         "slides_pP98jd",
-        "slides_XiXNKV"
+        "slides_XiXNKV",
+        "slides_iwiLw7"
       ],
       "settings": {
         "slider_height": "default",
