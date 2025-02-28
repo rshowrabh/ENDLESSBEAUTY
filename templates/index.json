@@ -15,6 +15,25 @@
         "slides_pP98jd": {
           "type": "slides",
           "settings": {
+            "bg_image": "shopify://shop_images/Light-white-body-cream.jpg",
+            "bg_image_mob": "shopify://shop_images/Light-White-Mobile.jpg",
+            "content_position": "center-center",
+            "content_alignment": "left",
+            "opacity": 10,
+            "heading": "",
+            "sub_heading": "",
+            "text": "",
+            "btn_label": "",
+            "url": "shopify://collections/body-cream",
+            "second_label": "",
+            "second_url": "",
+            "enable_link": true,
+            "color_scheme": "accent-1"
+          }
+        },
+        "slides_XiXNKV": {
+          "type": "slides",
+          "settings": {
             "bg_image": "shopify://shop_images/BODY-CREAM_de962b77-3ba0-4f74-b827-133932a01f9e.jpg",
             "bg_image_mob": "shopify://shop_images/slider-mobile_0dc79037-379b-42af-b3e5-aeb5133c6e88.jpg",
             "content_position": "center-center",
@@ -33,7 +52,8 @@
         }
       },
       "block_order": [
-        "slides_pP98jd"
+        "slides_pP98jd",
+        "slides_XiXNKV"
       ],
       "settings": {
         "slider_height": "default",
