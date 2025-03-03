@@ -107,7 +107,7 @@ details[open].menu-opening > .menu-drawer__submenu {
 .menu-drawer summary.menu-drawer__menu-item {
   padding-right: 5.2rem;
 }
-summary.open svg:last-child {
+summary.open svg {
   display:none!important;
 }
 
