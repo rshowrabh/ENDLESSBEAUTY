@@ -166,6 +166,11 @@ p {
 .price {
   font-size: 14px  !important;
 }
+details:not([open])>.header__icon--menu .icon-close, details[open]>.header__icon--menu .icon-hamburger {
+    visibility: hidden;
+    opacity: 0;
+    transform: scale(.8);
+}
 
 /* Only Desktop */
 @media only screen and (min-width: 768px) {
