@@ -25,7 +25,7 @@
           "type": "title",
           "settings": {}
         },
-        "judge_me_reviews_preview_badge_drxefb": {
+        "judge_me_reviews_preview_badge_7xj6jD": {
           "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {}
         },
@@ -121,7 +121,7 @@
       },
       "block_order": [
         "title",
-        "judge_me_reviews_preview_badge_drxefb",
+        "judge_me_reviews_preview_badge_7xj6jD",
         "price",
         "sku_NX4NpE",
         "inventory_WHQXBC",
