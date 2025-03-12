@@ -35,6 +35,7 @@
         },
         "sku_NX4NpE": {
           "type": "sku",
+          "disabled": true,
           "settings": {
             "text_style": "body"
           }
