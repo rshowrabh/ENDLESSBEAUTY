@@ -5,7 +5,7 @@
     position: relative;
 }
 .slider-item.default {
-    height: 650px;
+    height: auto;
 }
 .slider-info {
     position: absolute;
