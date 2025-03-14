@@ -5,12 +5,12 @@
     position: relative;
 }
 .slider-item.default {
-    height: 600px;
+    height: 650px;
 }
 .slider-info {
     position: absolute;
     width: 100%;
-    height: auto;
+    height: 100%;
     z-index: 2;
     display: flex;
     padding: 50px 0;
@@ -31,7 +31,7 @@
 .slider-img {
     width: 100%;
     display: block;
-    height: auto;
+    height: 100%;
     object-fit: cover;
 }
 
@@ -119,7 +119,7 @@ svg.hero-placeholder-svg {
 }
 
 .slider-media {
-    width: 100%;
+    height: 100%;
 }
 
 video.slider-video {
