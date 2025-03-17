@@ -149,9 +149,11 @@
             <h2 style="word-spacing:{{block.settings.word_break}};">{{ block.settings.heading }}</h2>
             <a class="underline" href="{{block.settings.button_link}}">{{ block.settings.button_label }}</a>
           </div>
-          <div class="image overlay-hover">
+          <div class="image">
             {% if block.settings.image != blank %}
+            <a href="{{block.settings.button_link}}">
                     <img src="{{ block.settings.image | image_url }}" alt="">
+             </a>       
             {% endif %}
           </div>
         </div>
