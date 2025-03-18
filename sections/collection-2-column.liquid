@@ -95,6 +95,7 @@
     overflow: hidden;
     transition: 0.5s all ease-in-out; 
     height: 400px; 
+    cursor: pointer;
 }
 #two-column-gallary .box .item:nth-child(1),#two-column-gallary .box .item:nth-child(2) {
     flex: 1 1 48%;
@@ -144,7 +145,7 @@
   <div class="section-{{ section.id }}-padding page-width">
     <div class="box">
       {% for block in section.blocks %}
-        <div class="item item1">
+        <div class="item item1" onclick="window.location.href = 'http://example.com';">
           <div class="text" style="left:{{block.settings.text_position_left}}%;bottom:{{block.settings.text_position_bottom}}%">
             <h2 style="word-spacing:{{block.settings.word_break}};">{{ block.settings.heading }}</h2>
             <a class="underline" href="{{block.settings.button_link}}">{{ block.settings.button_label }}</a>
