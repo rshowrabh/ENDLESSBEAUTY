@@ -145,7 +145,7 @@
   <div class="section-{{ section.id }}-padding page-width">
     <div class="box">
       {% for block in section.blocks %}
-        <div class="item item1" onclick="window.location.href = 'http://example.com';">
+        <div class="item item1" onclick="window.location.href = '{{block.settings.button_link}}';">
           <div class="text" style="left:{{block.settings.text_position_left}}%;bottom:{{block.settings.text_position_bottom}}%">
             <h2 style="word-spacing:{{block.settings.word_break}};">{{ block.settings.heading }}</h2>
             <a class="underline" href="{{block.settings.button_link}}">{{ block.settings.button_label }}</a>
