@@ -74,6 +74,7 @@
         },
         "collapsible_tab_6XaPbK": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Care Instruction",
             "icon": "none",
@@ -83,6 +84,7 @@
         },
         "collapsible_tab_yXbKgV": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Shipping & Delivery",
             "icon": "none",
@@ -92,6 +94,7 @@
         },
         "collapsible_tab_f9mGxB": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Refund & Exchange",
             "icon": "none",
