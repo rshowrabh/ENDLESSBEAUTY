@@ -10,12 +10,12 @@
 {
   "layout": "theme",
   "sections": {
-    "ecom-gluta-plus-face-pack-page": {
-      "type": "ecom-gluta-plus-face-pack-page",
+    "ecom-whitening-combo-offer-page": {
+      "type": "ecom-whitening-combo-offer-page",
       "settings": {}
     }
   },
   "order": [
-    "ecom-gluta-plus-face-pack-page"
+    "ecom-whitening-combo-offer-page"
   ]
 }
