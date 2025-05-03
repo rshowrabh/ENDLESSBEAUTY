@@ -84,22 +84,20 @@
         },
         "collapsible_tab_yXbKgV": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "heading": "Shipping & Delivery",
-            "icon": "none",
-            "content": "<ul><li>Inside Dhaka within 02 working days & Outside Dhaka within 04 working<br/>days.</li><li>Inside Dhaka delivery Charge is 70 Taka, Outside Dhaka Delivery Charge is<br/>150 Taka.</li><li>Kindly note that, as per our policy, no product returns will be accepted after delivery. Please inspect the items in front of our delivery personnel for your satisfaction.</li></ul><p><em><strong>Note:</strong></em><em> Delivery charges may vary depending on product weight and order size.</em></p>",
+            "icon": "truck",
+            "content": "<ul><li>Inside Dhaka within 02 working days & Outside Dhaka within 04 working<br/>days.</li><li>Inside Dhaka delivery Charge is 80 Taka, Outside Dhaka Delivery Charge is<br/>150 Taka.</li><li>Kindly note that, as per our policy, no product returns will be accepted after delivery. Please inspect the items in front of our delivery personnel for your satisfaction.</li></ul><p><em><strong>Note:</strong></em><em> Delivery charges may vary depending on product weight and order size.</em></p>",
             "page": ""
           }
         },
         "collapsible_tab_f9mGxB": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
-            "heading": "Refund & Exchange",
-            "icon": "none",
-            "content": "<p><strong>50% price adjustment of previously purchased products in case of Exchange with our available products (Lifetime). </strong></p><p>For example, if you buy something worth of 5000 Taka then you will get a 50% price adjustment that means 5000*50%= 2500 Taka. This 2500 taka will be deducted from the original price of the exchanged product. Suppose the price of the new item which you want to buy is 7500 Taka so after deducting the 2500 taka you will pay 5000 Taka for the new product. <strong><br/><br/>40% Cash Return in case of Product Return (Lifetime).</strong></p><p>For example, you want to return the product and take cash in that case if the price of your product is 5000 Taka you will get back 5000*40%=<br/>2000 Taka.<strong><br/><br/></strong><em><strong>You must come to our office for Refund or Exchange.</strong></em><strong><br/><br/></strong><em><strong>You must bring the memo in order to avail the Refund or<br/>Exchange facility.</strong></em></p>",
-            "page": ""
+            "heading": "Terms & Condition",
+            "icon": "question_mark",
+            "content": "",
+            "page": "terms-and-condition"
           }
         },
         "icon_with_text_wcenbA": {
