@@ -160,7 +160,7 @@
     "new_featured_collection_VNmiar": {
       "type": "new-featured-collection",
       "settings": {
-        "title": "Featured collection",
+        "title": "Just Arrived",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
