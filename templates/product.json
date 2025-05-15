@@ -123,6 +123,10 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "aov_bundle_upsell_offer_fixed_pfnQPn": {
+          "type": "shopify://apps/aov-bundle-upsell/blocks/offer-fixed/0335d423-143c-4ad7-b224-99a1db74a9ee",
+          "settings": {}
         }
       },
       "block_order": [
@@ -140,7 +144,8 @@
         "collapsible_tab_yXbKgV",
         "collapsible_tab_f9mGxB",
         "icon_with_text_wcenbA",
-        "share_YKUEWk"
+        "share_YKUEWk",
+        "aov_bundle_upsell_offer_fixed_pfnQPn"
       ],
       "settings": {
         "enable_sticky_info": true,
