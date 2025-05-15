@@ -182,6 +182,11 @@
         "type": "shopify://apps/ecomposer-landing-page-builder/blocks/app-embed/a0fc26e1-7741-4773-8b27-39389b4fb4a0",
         "disabled": false,
         "settings": {}
+      },
+      "16605207545338212596": {
+        "type": "shopify://apps/aov-bundle-upsell/blocks/aov-offer/0335d423-143c-4ad7-b224-99a1db74a9ee",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
