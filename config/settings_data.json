@@ -192,6 +192,11 @@
         "type": "shopify://apps/aov-cart-drawer/blocks/avada-embed/938869e1-3feb-48fa-ab79-27fdfe609836",
         "disabled": false,
         "settings": {}
+      },
+      "5061257265103808445": {
+        "type": "shopify://apps/r-terms-conditions/blocks/embed-block/471882a9-9b1b-4918-8943-6c66b60c94ea",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
