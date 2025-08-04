@@ -86,5 +86,5 @@
   justify-content: flex-end;
 }
 .rte>*:last-child {
-  text-align: justify;
+  text-align: .left;
 }
