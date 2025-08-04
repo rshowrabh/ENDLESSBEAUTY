@@ -54,8 +54,8 @@
         "contact_mBHJrm"
       ],
       "settings": {
-        "payment_img": "shopify://shop_images/SSLCommerz-Pay-With-logo-All-Size-03.png",
-        "payment_img_mob": "shopify://shop_images/SSLCommerz-Pay-With-logo-All-Size-01.png",
+        "payment_img": "shopify://shop_images/Payment_Banner_2_-_Copy.png",
+        "payment_img_mob": "shopify://shop_images/Payment_Banner_3.png",
         "payment_width": 100,
         "color_scheme": "scheme-1",
         "newsletter_enable": false,
