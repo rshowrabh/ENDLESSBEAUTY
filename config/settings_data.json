@@ -10,7 +10,8 @@
 {
   "current": {
     "aftertext": "OFF",
-    "aftertextbackgroundcolor": "#2bc1ad",
+    "aftertextbackgroundcolor": "#f61313",
+    "aftertextcolor": "#ffffff",
     "font_size_badge": 13,
     "badge_border_radius": 2,
     "badge_animation": true,
