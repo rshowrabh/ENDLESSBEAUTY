@@ -1,0 +1,211 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "breadcrumbs_TJnnPC": {
+      "type": "breadcrumbs",
+      "settings": {
+        "text_align": "left",
+        "color_scheme": "",
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "judge_me_reviews_preview_badge_7xj6jD": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "sku_NX4NpE": {
+          "type": "sku",
+          "disabled": true,
+          "settings": {
+            "text_style": "body"
+          }
+        },
+        "aov_bundle_upsell_offer_fixed_W98grH": {
+          "type": "shopify://apps/aov-ai-bundle/blocks/offer-fixed/0335d423-143c-4ad7-b224-99a1db74a9ee",
+          "settings": {}
+        },
+        "inventory_WHQXBC": {
+          "type": "inventory",
+          "settings": {
+            "text_style": "body",
+            "inventory_threshold": 10,
+            "show_inventory_quantity": true
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "custom_liquid_9T7jhb": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{% if product.metafields.custom.sizechart.value != blank %}\n    <a id=\"btn-{{ product.id }}\" class=\"sizeguide-button d-flex\" href=\"#sizepopup\">\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1920 1920\" width=\"25px\" height=\"25px\" fill=\"currentColor\">\n    <path d=\"M1493.492.024.941 1492.583l426.444 426.438 180.887-180.886.12.12 75.385-75.381-.12-.12 75.387-75.39.118.12 75.385-75.382-.118-.12 75.385-75.39.12.12 75.384-75.381-.118-.12 75.388-75.38.12.11 75.38-75.381-.12-.12 75.391-75.381.12.11 75.38-75.381-.12-.12 75.392-75.385.12.12 75.38-75.386-.12-.12 75.391-75.384.11.118 75.39-75.385-.12-.119 75.392-75.386.11.12 75.39-75.386-.12-.118 180.886-180.888L1493.492.024Zm170.182 531.947 105.495-105.502-275.677-275.674-1341.78 1341.788 275.673 275.676 105.502-105.505-100.144-100.148 75.385-75.38 100.144 100.137 75.386-75.38-100.144-100.148 75.385-75.381 100.145 100.138 75.384-75.381-175.53-175.529 75.387-75.39 175.53 175.528 75.385-75.38-100.144-100.148 75.385-75.381 100.147 100.148 75.38-75.39-100.138-100.144 75.381-75.385 100.148 100.143 75.38-75.385-175.528-175.53 75.391-75.385 175.529 175.53 75.38-75.386-100.148-100.144 75.391-75.385 100.148 100.143 75.38-75.385-100.147-100.144 75.39-75.386 100.149 100.145Z\" fill-rule=\"evenodd\"></path>\n</svg>\nSize Guide</a>\n{% endif %}"
+          }
+        },
+        "buy_button_selector_eznb6A": {
+          "type": "buy_button_selector",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "aov_bundle_upsell_offer_volume_yEkRqp": {
+          "type": "shopify://apps/aov-ai-bundle/blocks/offer-volume/0335d423-143c-4ad7-b224-99a1db74a9ee",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "collapsible_tab_6XaPbK": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Care Instruction",
+            "icon": "none",
+            "content": "<h3><strong>Care Instructions for Moissanite Jewelry (Silver & Gold)</strong></h3><p>Thank you for choosing moissanite<br/>jewelry from Lesia Emporium! To ensure your jewelry remains as stunning as the day you received it, please follow these care instructions:</p><h3><strong>General Care</strong></h3><p><strong>Avoid Harsh Chemicals:</strong> Keep your moissanite jewelry away from harsh chemicals such as bleach, chlorine, and<br/>household cleaning agents. These can damage both the metal and the stone.</p><p><strong>Remove During Activities:</strong><br/>Take off your jewelry before engaging in activities that could expose it to physical stress, such as sports, gardening, or heavy lifting.</p><p><strong>Storage:</strong> Store your jewelry<br/>separately in a soft pouch or a lined jewelry box to prevent scratches or tangling.</p><h3><strong>Cleaning</strong></h3><p><strong>Regular Cleaning:</strong>  Gently clean your moissanite jewelry with a soft brush and warm, soapy water. Rinse thoroughly and dry with a soft cloth.</p><p><strong>Silver Jewelry:</strong> For silver settings, use a silver polishing cloth to maintain shine and prevent tarnish. Avoid liquid silver cleaners as they can be too abrasive.</p><p><strong>Gold Jewelry:</strong> Clean gold<br/>settings with a mild detergent and warm water. Avoid using harsh chemicals or abrasive cleaners.</p><h3><strong>Professional Care</strong></h3><p><strong>Periodic Inspection:</strong> It’s a<br/>good idea to have your jewelry professionally inspected once a year to ensure that the setting is secure and the stone is free from damage.</p><p><strong>Professional Cleaning:</strong> For<br/>deep cleaning, take your moissanite jewelry to a professional jeweler who can<br/>clean it safely using ultrasonic or steam cleaning methods.</p><p>By following these simple steps,<br/>your moissanite jewelry will continue to sparkle and bring you joy for years to<br/>come. If you have any questions or need further assistance, don’t hesitate to<br/>contact us at Lesia Emporium.</p><p> Enjoy your dazzling<br/>moissanite piece!</p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_yXbKgV": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shipping & Delivery",
+            "icon": "truck",
+            "content": "<ul><li>Inside Dhaka within 02 working days & Outside Dhaka within 04 working<br/>days.</li><li>Inside Dhaka delivery Charge is 80 Taka, Outside Dhaka Delivery Charge is<br/>150 Taka.</li><li>Kindly note that, as per our policy, no product returns will be accepted after delivery. Please inspect the items in front of our delivery personnel for your satisfaction.</li></ul><p><em><strong>Note:</strong></em><em> Delivery charges may vary depending on product weight and order size.</em></p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_f9mGxB": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Terms & Condition",
+            "icon": "question_mark",
+            "content": "",
+            "page": "terms-and-condition"
+          }
+        },
+        "icon_with_text_wcenbA": {
+          "type": "icon-with-text",
+          "disabled": true,
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "check_mark",
+            "heading_1": "100% Authentic",
+            "icon_2": "return",
+            "heading_2": "Easy Return",
+            "icon_3": "truck",
+            "heading_3": "Fast Shipping"
+          }
+        },
+        "share_YKUEWk": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "judge_me_reviews_preview_badge_7xj6jD",
+        "price",
+        "sku_NX4NpE",
+        "aov_bundle_upsell_offer_fixed_W98grH",
+        "inventory_WHQXBC",
+        "variant_picker",
+        "custom_liquid_9T7jhb",
+        "buy_button_selector_eznb6A",
+        "aov_bundle_upsell_offer_volume_yEkRqp",
+        "description",
+        "collapsible_tab_6XaPbK",
+        "collapsible_tab_yXbKgV",
+        "collapsible_tab_f9mGxB",
+        "icon_with_text_wcenbA",
+        "share_YKUEWk"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "",
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "cover",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "hover",
+        "mobile_thumbnails": "show",
+        "hide_variants": true,
+        "enable_video_looping": true,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "17411115803d164fb7": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_Pqq3qe": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_Pqq3qe"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "pf-27118da9": {
+      "type": "pf-27118da9",
+      "settings": {}
+    }
+  },
+  "order": [
+    "breadcrumbs_TJnnPC",
+    "main",
+    "17411115803d164fb7",
+    "related-products",
+    "pf-27118da9"
+  ]
+}
