@@ -134,12 +134,12 @@
         "column_BJrrxB": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Combo-cover.jpg",
+            "image": "shopify://shop_images/combo-cover-11.jpg",
             "heading": "Combo",
             "button_label": "Shop Now",
             "button_link": "shopify://collections/combo-deal",
             "text_position_left": 10,
-            "text_position_bottom": 10,
+            "text_position_bottom": 75,
             "word_break": "initial"
           }
         }
