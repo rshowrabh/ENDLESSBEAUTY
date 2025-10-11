@@ -14,6 +14,7 @@
       "blocks": {
         "slides_pP98jd": {
           "type": "slides",
+          "disabled": true,
           "settings": {
             "bg_image": "shopify://shop_images/Light-white-body-cream.jpg",
             "bg_image_mob": "shopify://shop_images/Light-White-Mobile.jpg",
@@ -33,6 +34,7 @@
         },
         "slides_XiXNKV": {
           "type": "slides",
+          "disabled": true,
           "settings": {
             "bg_image": "shopify://shop_images/BODY-CREAM_de962b77-3ba0-4f74-b827-133932a01f9e.jpg",
             "bg_image_mob": "shopify://shop_images/slider-mobile_0dc79037-379b-42af-b3e5-aeb5133c6e88.jpg",
