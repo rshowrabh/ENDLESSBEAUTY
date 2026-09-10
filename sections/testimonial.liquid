@@ -21,10 +21,10 @@ padding-bottom: {{ section.settings.padding_bottom }}px;
                 <p class="collection__description">{{ section.settings.text }}</p>
                 <div class="arrow d-flex">
                     <div class="arrow_prev">
-                        {% render 'arrow.svg' | asset_url %}
+                        {% render 'arrow.svg' %}
                     </div>
                     <div class="arrow_next">
-                        {% render 'arrow.svg' | asset_url %}
+                        {% render 'arrow.svg' %}
                     </div>
                 </div>
             </div>
@@ -172,4 +172,16 @@ padding-bottom: {{ section.settings.padding_bottom }}px;
 }
 ]
 }
-{% endschema %}
+{% endschema %}{%- comment -%}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "{% render 'arrow.svg' | asset_url %}"
+  to: "{% render 'arrow.svg' %}"
+  position: 931..955
+- from: "{% render 'arrow.svg' | asset_url %}"
+  to: "{% render 'arrow.svg' %}"
+  position: 1052..1076
+{%- endcomment -%}
